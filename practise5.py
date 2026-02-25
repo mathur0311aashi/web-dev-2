@@ -21,13 +21,5 @@ print(max(arr))
 # if i == j:
 #     print("the common factor of n and k is", i)
 
-
-
-
-
-
-
-
-
 # for heighest common factor of two numbers
 
