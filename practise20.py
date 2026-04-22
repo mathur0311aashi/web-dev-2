@@ -24,6 +24,7 @@
 # print(max(arr1)-min(arr1))
 
 
+
 arr = [10, 3, 5, 6, 2]
 arr1 = []
 # product = 1
